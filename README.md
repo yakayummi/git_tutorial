@@ -3,22 +3,23 @@ CPGD Club Git Tutorial for Collaboration
 By Chin Chao
 
 ### List of Basic Commands to Go Over
-- git init
-- git clone
-- git branch
-- git checkout
-- git status
-- git diff
-- git add
-- git commit
-- git log
-- git push
-- git pull
+- init
+- clone
+- branch
+- checkout
+- status
+- diff
+- add
+- commit
+- log
+- push
+- pull
 
 ### Other Commands That Can Be Useful
-- git fetch
-- git config
-- git reset
+- fetch
+- config
+- reset
+- stash
 
 ### Important Things to Note While Using Git
 - Merge Conflicts (Try to minimize it, it is a hassle to fix these conflicts)
